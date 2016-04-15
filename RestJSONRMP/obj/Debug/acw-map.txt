@@ -1,0 +1,4 @@
+RestJSONRMP.MainActivity, RestJSONRMP;md5f127921dccb9fc920e71b6ea41bcbcd0.MainActivity
+RestJSONRMP.MainActivity, RestJSONRMP, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null;md5f127921dccb9fc920e71b6ea41bcbcd0.MainActivity
+RestJSONRMP.MainActivity;md5f127921dccb9fc920e71b6ea41bcbcd0.MainActivity
+restjsonrmp.MainActivity;md5f127921dccb9fc920e71b6ea41bcbcd0.MainActivity

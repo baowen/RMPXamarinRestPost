@@ -1,0 +1,17 @@
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/MonoAndroid,Version=v4.4.AssemblyAttribute.cs
+/Users/ben/RestJSONRMP/RestJSONRMP/bin/Debug/RestJSONRMP.dll.mdb
+/Users/ben/RestJSONRMP/RestJSONRMP/bin/Debug/RestJSONRMP.dll
+/Users/ben/RestJSONRMP/RestJSONRMP/bin/Debug/com.benowen.restjsonrmp.apk
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/android/bin/com.benowen.restjsonrmp.apk
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/res/layout/main.xml
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/res/values/strings.xml
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/res/mipmap-hdpi/icon.png
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/res/mipmap-mdpi/icon.png
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/res/mipmap-xhdpi/icon.png
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/res/mipmap-xxhdpi/icon.png
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/res/mipmap-xxxhdpi/icon.png
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/R.cs.flag
+/Users/ben/RestJSONRMP/RestJSONRMP/bin/Debug/com.benowen.restjsonrmp-Signed.apk
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/uploadflags.txt
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/RestJSONRMP.dll
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/RestJSONRMP.dll.mdb

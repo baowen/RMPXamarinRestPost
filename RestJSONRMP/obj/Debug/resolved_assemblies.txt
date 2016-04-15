@@ -1,0 +1,11 @@
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/assemblies/RestJSONRMP.dll
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/assemblies/System.dll
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/assemblies/System.Xml.dll
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/assemblies/Mono.Android.dll
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/assemblies/System.Json.dll
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/assemblies/System.Net.Http.dll
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/assemblies/System.Net.dll
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/assemblies/System.Core.dll
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/assemblies/mscorlib.dll
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/assemblies/System.Runtime.Serialization.dll
+/Users/ben/RestJSONRMP/RestJSONRMP/obj/Debug/assemblies/System.ServiceModel.Internals.dll
